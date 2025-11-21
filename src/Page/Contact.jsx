@@ -79,7 +79,7 @@ const initialState = {
                   <div>
                     <h4 className="text-lg font-bold poppins-bold text-gray-800 mb-1">Phone</h4>
                     <p className="text-gray-600 poppins-regular">
-                       <a href="tel: 8989669549">+91  8989669549
+                       <a href="tel: 9755598877">+91  9755598877
                        </a>
                     </p>
                   </div>

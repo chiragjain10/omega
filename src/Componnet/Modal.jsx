@@ -14,7 +14,7 @@ const Modal = ({ display, setDisplay }) => {
 
     setIsLoading(true);
 
-    const whatsappNumber = "918989669549"; // India code +91
+    const whatsappNumber = "919755598877"; // India code +91
     const message = `Hello Omega Classes,%0A
 Name: ${name}%0A
 Mobile: ${mobileNumber}%0A
